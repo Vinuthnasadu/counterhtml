@@ -1,0 +1,52 @@
+*
+{
+    background-color: black;
+    padding-left: 2%;
+}
+#count
+{
+    color: white;
+}
+#heading1
+{
+font-family:sans-serif;
+color: white;
+
+}
+#decrement
+{
+background-color: white;
+color: black;
+margin: 10px 15px;
+padding: 10px 30px;
+}
+#increment
+{
+background-color: white;
+color: black;
+margin: 10px 15px;
+padding: 10px 35px;
+}
+#clear
+{
+background-color: black;
+border: 1px solid white;
+color: white;
+margin: 10px 15px;
+padding: 10px 50px;
+}
+#line
+{
+color: white;
+padding-top: 0.5px;
+}
+#texterror
+{
+color: red;
+}
+.full
+{
+margin: 10px;
+padding-left: 5px;
+padding-top: 15px;
+}
